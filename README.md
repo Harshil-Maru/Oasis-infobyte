@@ -41,7 +41,10 @@ Each task demonstrates real-world applications of Data Science and Machine Learn
 - 💬 Applied NLP to real-world text data
 - 📈 Generated insights to support business and social decisions
 
+<<<<<<< HEAD
 ---
+=======
+>>>>>>> f10d3cab74480b8f58be8cc8df96f7399642e4d5
 
 ## 📌 Note
 
